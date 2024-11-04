@@ -1,2 +1,3 @@
 Возможный график: \
-![image](https://github.com/user-attachments/assets/900b68af-991f-458f-8d97-5e0096debe85)
+![image](https://github.com/user-attachments/assets/ef6c9398-e4e7-4856-b38b-fe544a0a7d50)
+
